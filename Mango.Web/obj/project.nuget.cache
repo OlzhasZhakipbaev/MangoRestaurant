@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oo63SQQIKtd4yyHS1Tw4e1r5xv09ykDwNoOT83Tf29ZONB2U9Bq8J/ZQIxXQH9zf8QBTZcoe4O1kKKQoM3Tg1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Олжас\\source\\repos\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олжас\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
